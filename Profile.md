@@ -1,4 +1,5 @@
-Welcome to my github profile.
-# A first heading
-## 2nd heading
-### 3rd heading
+# Introduction to github 
+**This text is bold**\
+*This text is italics*\
+***This text is both bold and italics***\
+~~OOPS I made an error~~
